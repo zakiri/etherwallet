@@ -1,5 +1,5 @@
 ### v3.39.0
-- Re-add sv.js changes and Ledger show data []()
+- Re-add sv.js changes and Ledger show data [#2280](https://github.com/kvhnuke/etherwallet/pull/2280)
 
 ### v3.38.0
 - XSS fix [#2273](https://github.com/kvhnuke/etherwallet/pull/2273)
